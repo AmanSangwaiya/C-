@@ -1,0 +1,9 @@
+body{
+    background-image: url(gradient\ \(1\).jpeg);
+    background-size: cover;
+}
+h3{
+    font-size: 3rem;
+    color: white;
+    margin-left: 90px;
+}
